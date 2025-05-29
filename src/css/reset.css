@@ -23,6 +23,10 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  font-weight: 600;
+}
+
 button {
   cursor: pointer;
 }
